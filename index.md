@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+After reading the articles I feel like I have a better understanding of what java script is. The way I look at java script is like a robot, the HTML is the skeleton of the robot, the metal finish is the CSS, and what makes the robot move and power on is the Java Script. Java script is best know as the scripting language for web pages it is also used in non-browser environments. Java script is wideley used for controlling web behavior. Java Script allows you to implement complex features on a web page, a page can have animated graphics,music, scrolling abilities , moving text all thanks to Java Script. JavaScript is applied to your HTML page in a similar manner to CSS.CSS uses <link> elements to apply external stylesheets and <style> elements to apply internal stylesheets to HTML, JavaScript only needs one friend in the world of HTML — the <script> element. For Example
+  
+  <script>
 
-You can use the [editor on GitHub](https://github.com/marioa7770/read06_md/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+  // JavaScript goes here
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/marioa7770/read06_md/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</script>
+  
+  I also learned the four common things that make up a computer are input, processing, storage and output. THe input of the computer would be what you tell the computer to do for example the keyboard. The information that is given to the computer via the input is stored in memory, a computers processor takes information from memory and manipulates it using an alogorithm it then sends the processed information back to be stored in the memory again, the output of the computer is what you see generated on the screen 
